@@ -70,6 +70,7 @@ function renderProj() {
         
         loc = '#portfolioModal' + (i + 1);
 
+        
     }
 
 }
